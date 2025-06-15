@@ -1,6 +1,6 @@
-Bot_name = "Temsar uploader"
-api_id = 25478150
-api_hash = "17a50408fc28428c884a5c16202b2794"
-Token = "6834947843:AAGlLrSfItSNZze8RV4rD8pBx81Eafgy0ak"
+Bot_name = "🎬 Movie Box 🎬"
+api_id = 21809176
+api_hash = "7f31d1bcfbe3d7f9fd2443c07a1f0607"
+Token = "7645734668:AAHXqcNqIpGcuRSAlaQf3oGZjCEno4eUWMk"
 chanel1_id= -1002082050309
-chanel1_Join_link = "https://t.me/+ZxAq42CdcOk2OTY0"
+chanel1_Join_link = "https://t.me/+r_5eHSUOgARhMDQ9"
